@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "mern practice lesson",
+	"baseUrl": "http://localhost:5000",
+	"dbMongooseUrl": "mongodb+srv://henri:password_henri@cluster0.ahert.mongodb.net/lesson?retryWrites=true&w=majority"
+}

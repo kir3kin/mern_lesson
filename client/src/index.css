@@ -1,0 +1,31 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.self-mr10 {
+  margin-right: 10px;
+}
+
+input.self-yi {
+  border-bottom: 1px solid #fff !important;
+  box-shadow: 0px 1px 0 0 #fff !important;
+}
+
+input.self-yi + label {
+  color: #fff !important;
+}
+
+input.self-yi:focus {
+  border-bottom: 1px solid #ffeb3b !important;
+  box-shadow: 0px 1px 0 0 #ffeb3b !important;
+}
+
+input.self-yi:focus + label {
+  color: #ffeb3b !important;
+}
+
+.self-p2 {
+  padding: 0 2rem;
+}
+
+.self-pt2 {
+  padding-top: 2rem !important;
+}
